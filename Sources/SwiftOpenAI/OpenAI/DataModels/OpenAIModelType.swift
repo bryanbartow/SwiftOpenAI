@@ -34,6 +34,7 @@ public enum OpenAIImageModelType {
 public enum GPT4o: String {
     case base = "gpt-4o"
     case gpt_4o_2024_05_13 = "gpt-4o-2024-05-13"
+    case mini = "gpt-4o-mini"
 }
 
 public enum GPT4: String {
